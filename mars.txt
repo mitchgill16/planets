@@ -1,7 +1,13 @@
 Cold and dry, but everything is my favourite colour.
 The moons mayb be a problem for wolfman.
 Mummy likes the dry humidity though
+My line is better than Kellys Line.
 Kelly 2019
 kidding back in
+<<<<<<< HEAD
 its cold as hell
 
+=======
+get out of my mars
+>>>>>>> 05a6ae1d98adc297fb987e0fda5a8de54b45484f
+Hello round 2
